@@ -35,7 +35,9 @@ color: white;
 
 
 <img src="loan.png" height="50" lenght="50">
-<a class="navbar-brand" href="#">Home Credit</a>
+
+
+<a class="navbar-brand" href="#">AEON Financial Services (updated)</a>
 
         <a href="#" class="glyphicon glyphicon-folder-close"> Application Status</a>
         <a href="#" class="glyphicon glyphicon-envelope"> Respond to Invitation</a>
