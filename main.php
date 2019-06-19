@@ -13,7 +13,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 <link rel="icon" href="loan.png">
-    <title>Seph Project</title>
+    <title>Loan now!</title>
 
     <style>
     .col-8{
@@ -39,23 +39,24 @@
 
 <body>
 <!--start-->
-<nav class="navbar navbar-light" style="background-color: #e3f2fd;" >
-  <div class="container-fluid">
 
 
 
 
-<label><img src="loan.png" height="50" lenght="50"> ÆON Financial Services</label>
 
+    <span class="d-block p-2 text-BLACK" style="background-color: #e3f2fd;" > <img src="loan.png" height="50" lenght="50"><label>ÆON CREDIT SERVICE (PHILIPPINES) INC.</label>
+      <span style="color: #e3f2fd;">spaaaace</span>
         <a href="#" class="glyphicon glyphicon-folder-close"> Application Status</a>
+          <span style="color: #e3f2fd;">spce</span>
         <a href="#" class="glyphicon glyphicon-envelope"> Respond to Invitation</a>
+          <span style="color: #e3f2fd;">spce</span>
         <a href="#" class="glyphicon glyphicon-earphone"> Contanct Us</a>
 
       <ul class="nav navbar-nav navbar-right" style="background-color: #e3f2fd;">
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
       </ul>
     </div>
-
+</span>
 </nav>
 <div class="jumbotron jumbotron-fluid" >
 
