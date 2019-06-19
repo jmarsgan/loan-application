@@ -15,13 +15,23 @@
 <link rel="icon" href="loan.png">
     <title>Seph Project</title>
 
-<style>
-.jumbotron{
+    <style>
+    .col-8{
 
-  background-image: url(color1.jpg);
-color: white;
-}
-</style>
+      background-color:  #ffa94d;
+    color: white;
+    }
+    .col-4{
+
+      background-color: #fff3e6;
+    }
+
+    .lowercontainer{
+      color:white;
+      background-color: #ffa94d;
+    }
+
+    </style>
 
 
 </head>
@@ -34,10 +44,8 @@ color: white;
 
 
 
-<img src="loan.png" height="50" lenght="50">
 
-
-<a class="navbar-brand" href="#">AEON Financial Services</a>
+<label><img src="loan.png" height="50" lenght="50"> ÆON Financial Services</label>
 
         <a href="#" class="glyphicon glyphicon-folder-close"> Application Status</a>
         <a href="#" class="glyphicon glyphicon-envelope"> Respond to Invitation</a>
@@ -47,75 +55,67 @@ color: white;
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
       </ul>
     </div>
-  </div>
+
 </nav>
+<div class="jumbotron jumbotron-fluid" >
+
+
+
+<div class="row">
+  <div class="col-8">
+      <br><br><br><br>  <br><br>
+    <h1>We don't just lend money.</h1>
 
 
 
 
-<br><br>
-<div class="float-right">
-  <div class="card text" style="width: 45rem;">
+    <h4 class="display-4">We lend a hand.</h4>
+    <hr>
+    <h6> No processing fees | Flexible repayment terms</h6>
+    <h6> Fixed rates | 100% U.S.-based loan specialists</h6>
 
-    <div class="card-body">
-      <h3 class="card-title">Personal Loan 2019</h3>
-      <br><br>
-      <div class="col-auto">
-           <div class="input-group mb-2">
-             <div class="input-group-prepend">
-               <div class="input-group-text">₱</div>
 
-             <input type="text" class="form-control" id="inlineFormInputGroup">
-        </div>
-           </div>
+  <br><br>  <br><br>  <br><br>  <br><br>
 
-         <div class="dropdown">
-    <button class="btn btn-primary dropdown-toggle"  type="button" id="dropdownMenuButton" style="width: 20rem;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    What is this for ?
-    </button>
-    <br><br><br>
-    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-      <a class="dropdown-item" href="#">Action</a>
-      <a class="dropdown-item" href="#">Another action</a>
-      <a class="dropdown-item" href="#">Something else here</a>
-    </div>
   </div>
+  <div class="col-4">
+  <br><br>  <br><br>
+      <h1>Personal Loan</h1>
+    <br><br>
 
-  <br><br>
+      <div class="col-9">
+        <div class="input-group mb-3">
+         <div class="input-group-prepend">
+          <div class="input-group-text">₱</div>
+            <input type="text" class="form-control" id="inlineFormInputGroup">
+        </div>
+        </div>
+        <div class="dropdown">
+   <button class="btn btn-primary dropdown-toggle"  type="button" id="dropdownMenuButton" style="width: 27rem;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+   What is this for ?
+   </button>
+   <br><br><br>
+   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+     <a class="dropdown-item" href="#">Action</a>
+     <a class="dropdown-item" href="#">Another action</a>
+     <a class="dropdown-item" href="#">Something else here</a>
+   </div>
+ </div>
+      </div>
+
+      <br>
+      <br><br>
+
+      <h6 class="card-text">This won't impact your credit score</h6>
+
   <ul class="nav navbar-nav" style="background-color: #f47f1f;">
     <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Check Your rate</a></li>
   </ul>
     </div>
+
     </div>
-
-    <h6 class="card-text">This won't impact your credit score</h6>
-    <br>
-
-
-
-  </div>
-
-  </div>
-
-<div class="jumbotron">
-  <div class="container-fluid" style="height: 275px;">
-  <h4 class="display-4">We don't just lend money.</h4>
-
-
-
-
-  <h4 class="display-4">We lend a hand.</h4>
-<hr>
-  <h6> No processing fees | Flexible repayment terms</h6>
-  <h6> Fixed rates | 100% U.S.-based loan specialists</h6>
-
-  </div>
-
-
-</div>
-<br><br>
+<br>
 <div class="container-fluid bg-3 text-center">
-<h2>Why get a personal loan from Discover</h2><br>
 <div class="row">
 
   <div class="col-sm-3">
@@ -144,16 +144,71 @@ color: white;
 </div><br>
 
 
+<h1><center>Why get personal Loan</center></h1>
 
+<br><br>
+<div class="container">
+  <center>
+<div class="row justify-content-around">
+  <div class="col-4">
+    <img src="1.png" height="80" width="80"><br>
+    <label>$0 fees</label><br>
+    <h6><a href="#">No loan origination fees.</a> No fees of any kind as long as you pay on time.</h6>
+  </div>
+  <div class="col-4">
 
+      <img src="2.png" height="80" width="80"><br>
+        <label>Save money</label><br>
+          <h6>Pay off higher rate loans and credit cards. You can save hundreds - or even thousands - of dollars.</h6>
+  </div>
+  </div>
+</center>
+</div>
 
+<br><br>
+<div class="container">
+  <center>
+<div class="row justify-content-around">
+  <div class="col-4">
 
+      <img src="3.png" height="80" width="80"><br>
+        <label>Design your loan terms around you</label><br>
+          <h6>Use our <a href="#">personal loan calculator</a> to design your loan around the loan amount and length.</h6>
+  </div>
+  <div class="col-4">
 
-
+      <img src="4.png" height="80" width="110"><br>
+        <label>Fixed rates: 6.99% to 24.99% APR</label><br>
+  <h6>Lock in your rate. Your monthly payment will never change.</h6>
+  </div>
+  </div>
+</center>
+</div>
 <br>
-
-   <br>
-
+  <div class="jumbotron jumbotron-fluid">
+<div class="lowercontainer" class="container">
+<center>
+  <h1>How it works</h1><br>
+  <div class="row align-items-start">
+    <div class="col">
+      <span class="badge badge-pill badge-primary" ><h4>1</h4></span>
+      <h2>Check your rate</h2>
+      <h4>Get your <a href="#" class="alert-link">personal loan interest rate </a>with no impact to your credit score. Simply enter the amount and length of the loan you want to get started.</h4>
+    </div>
+    <div class="col">
+      <span class="badge badge-pill badge-danger"><h4>2</h4></span>
+      <h2>Apply in minutes</h2>
+      <h4>Our highly trained loan specialists are ready to help you with the application 7 days a week.</h4>
+    </div>
+    <div class="col">
+    <span class="badge badge-pill badge-danger"><h4>3</h4></span>
+    <h2>Get funds fast</h2>
+    <h4>Most get a decision the day they apply. If approved, you can have funds sent directly to you or to your creditors.</h4>
+    </div>
+  </center>
+  </div>
+</div></div>
+\
 
 
 

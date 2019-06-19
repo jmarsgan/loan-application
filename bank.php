@@ -24,192 +24,213 @@
 
 
 <!--start-->
-<br><br><br>
+
+<span class="d-block p-2 text-BLACK" style="background-color: #e3f2fd;" > <img src="loan.png" height="50" lenght="50"> ÆON CREDIT SERVICE (PHILIPPINES) INC.</span>
+
+<div class="progress" style="height: 13px;">
+<div class="progress-bar progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 81%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
 <div class="container">
 <div class="panel panel-primary">
 <div class="panel-heading">BANK RELATIONSHIP/FINANCES</div>
 <br><br><br>
 
-
-
-<h3>
-<p class="text-center">LOANS WITH OTHER BANK INSTITUTIONS</p>
-</h3>
-
+<h3 class="text-center">LOANS WITH OTHER BANK INSTITUTIONS</h3>
 <br><br>
 
-<div class="form-group row">
-  <div class="col-xs-3">
-     <h4 class="text-center" for="ex2">Bank/Company</h3>
-     <input class="form-control" id="ex2" type="text">
-   </div>
+
+  <div class="form-group row">
+
+    <div class="col-xs-3">
+      <h4 class="text-center" for="ex2">Bank/Company</h3>
+        <input class="form-control" id="ex2" type="text">
+     </div>
+
    <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Load Amount</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+        <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Monthly Amortization</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+        <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Loan Type</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-3">
+        <input class="form-control" id="ex2" type="text">
+   </div>
 
+ </div>
+
+
+<div class="form-group row">
+
+  <div class="col-xs-3">
      <input class="form-control" id="ex2" type="text">
    </div>
+
    <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-3">
-
      <input class="form-control" id="ex2" type="text">
    </div>
+
    <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
 
-   <input class="form-control" id="ex2" type="text">
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
  </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
-</div>
 
 
+  <div class="form-group row">
+
+    <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+    </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
+  </div>
 <br><br><br><br>
 
-<h3>
-<p class="text-center">LOANS WITH OTHER BANK INSTITUTIONS</p>
-</h3>
 
-
+<h3 class="text-center">LOANS WITH OTHER BANK INSTITUTIONS</h3>
 <br><br>
 
 <div class="form-group row">
-<div class="col-xs-3">
-       <h4 class="text-center" for="ex2">Bank/Branch</h3>
-    <input class="form-control" id="ex2" type="text">
-  </div>
-  <div class="col-xs-6">
-        <h4 class="text-center" for="ex2">Account Type</h3>
-     <input class="form-control" id="ex3" type="text">
-   </div>
-   <div class="col-xs-3">
-      <h4 class="text-center" for="ex2">Year Opened</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
- </div>
- <div class="form-group row">
- <div class="col-xs-3">
 
+    <div class="col-xs-3">
+       <h4 class="text-center" for="ex2">Bank/Branch</h3>
+         <input class="form-control" id="ex2" type="text">
+    </div>
+
+    <div class="col-xs-6">
+        <h4 class="text-center" for="ex2">Account Type</h3>
+          <input class="form-control" id="ex3" type="text">
+    </div>
+
+    <div class="col-xs-3">
+      <h4 class="text-center" for="ex2">Year Opened</h3>
+        <input class="form-control" id="ex2" type="text">
+     </div>
+
+</div>
+
+
+ <div class="form-group row">
+
+   <div class="col-xs-3">
      <input class="form-control" id="ex2" type="text">
    </div>
-   <div class="col-xs-6">
 
+   <div class="col-xs-6">
       <input class="form-control" id="ex3" type="text">
     </div>
+
     <div class="col-xs-3">
-
-    <input class="form-control" id="ex2" type="text">
-  </div>
-  </div>
-  <div class="form-group row">
-  <div class="col-xs-3">
-
       <input class="form-control" id="ex2" type="text">
     </div>
-    <div class="col-xs-6">
+</div>
 
+
+  <div class="form-group row">
+
+    <div class="col-xs-3">
+      <input class="form-control" id="ex2" type="text">
+    </div>
+
+    <div class="col-xs-6">
        <input class="form-control" id="ex3" type="text">
      </div>
+
      <div class="col-xs-3">
+       <input class="form-control" id="ex2" type="text">
+     </div>
 
-     <input class="form-control" id="ex2" type="text">
    </div>
-   </div>
-
-
-
-
-
 <br><br><br>
+
+
 <h3 align="center">CREDIT CARDS</h3>
 <br>
 
+  <div class="form-group row">
 
-<div class="form-group row">
-  <div class="col-xs-3">
-
+    <div class="col-xs-3">
         <h4 class="text-center" for="ex2">Bank</h3>
-     <input class="form-control" id="ex2" type="text">
-   </div>
-   <div class="col-xs-3">
+          <input class="form-control" id="ex2" type="text">
+    </div>
+
+    <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Credit Card No.</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+          <input class="form-control" id="ex2" type="text">
+    </div>
+
+    <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Credit Limit</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+        <input class="form-control" id="ex2" type="text">
+    </div>
+
+    <div class="col-xs-3">
       <h4 class="text-center" for="ex2">Expiry Date</h3>
-   <input class="form-control" id="ex2" type="text">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-3">
+        <input class="form-control" id="ex2" type="text">
+    </div>
+  </div>
 
+
+<div class="form-group row">
+
+  <div class="col-xs-3">
      <input class="form-control" id="ex2" type="text">
    </div>
+
    <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-3">
-
      <input class="form-control" id="ex2" type="text">
    </div>
+
    <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
 
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
 
-   <input class="form-control" id="ex2" type="text">
- </div>
- <div class="col-xs-3">
+</div>
 
-   <input class="form-control" id="ex2" type="text">
- </div>
 
+<div class="form-group row">
+
+    <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+    </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text">
+   </div>
 </div>
 <br><br><br><br>
 
@@ -217,17 +238,18 @@
 <div class="alert alert-primary" role="alert">
   Please provide only the first six (6) and last four (4) digits of your credit card<br>
   (e.g. 8954-65xx-xxxx-9247)
-
-     <button type="submit" class="btn btn-primary center-block"><h4>Continue</h4></button>
+     <button type="submit" class="btn btn-warning center-block"><h4>Continue</h4></button>
 </div>
 
 
-
-    <div class="progress">
-    <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 81%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-
-
 </div>
+
+
+<center>
+<h6>ÆON CREDIT SERVICE (PHILIPPINES) INC. or its affiliates. All rights reserved</h6>
+</center>
+
+
 
 
 

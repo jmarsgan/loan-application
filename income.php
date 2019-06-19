@@ -7,201 +7,235 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <!--bootstrap panel-->
+    <!--bootstrap panel: w3schools-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-<link rel="icon" href="loan.png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+    <link rel="icon" href="loan.png">
     <title>Loan Now </title>
-
-</head>
-
+  </head>
 
 <body>
+
 <!--start-->
-<br><br><br>
+
+
+<span class="d-block p-2 text-BLACK" style="background-color: #e3f2fd;" > <img src="loan.png" height="50" lenght="50"> ÆON CREDIT SERVICE (PHILIPPINES) INC.</span>
+
+
+<div class="progress" style="height: 13px;">
+<div class="progress-bar progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 41%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
 <div class="container">
 <div class="panel panel-primary">
 <div class="panel-heading">Source of Income</div>
 
-<div class="panel-body"><label><h5>Employment type</h5></label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <div class="form-check form-check-inline">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-  <label class="form-check-label" for="inlineCheckbox1">Employed</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-  <label class="form-check-label" for="inlineCheckbox2">Self-Employed</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-  <label class="form-check-label" for="inlineCheckbox2">Remittance</label>
-</div>
-<div class="form-check form-check-inline">
-  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-  <label class="form-check-label" for="inlineCheckbox2">Retired/Pensioner</label>
-</div>
+
+
+<div class="row">
+   <div class="col-2">
+      <label>Employment type : </label>
+    </div>
+    <div class="col-7">
+
+        <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+        <label class="form-check-label" for="inlineCheckbox1">Employed</label>
+        </div>
+
+        <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+        <label class="form-check-label" for="inlineCheckbox2">Self-Employed</label>
+        </div>
+
+        <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+        <label class="form-check-label" for="inlineCheckbox2">Remittance</label>
+        </div>
+
+        <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+        <label class="form-check-label" for="inlineCheckbox2">Retired/Pensioner</label>
+        </div>
+
+      </div>
 </div>
 <br>
 
-<div class="input-group mb-3">
-  <div class="input-group-prepend">
-    <span class="input-group-text" id="inputGroup-sizing-default">Company Name</span>
-  </div>
-  <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
-</div>
-<div class="input-group mb-3">
-  <div class="input-group-prepend">
-    <span class="input-group-text" id="inputGroup-sizing-default">Company Full Address</span>
-  </div>
-  <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+
+<div class="form-group">
+  <label for="inputAddress2">Company Names</label>
+  <input type="text" class="form-control" id="inputAddress2" placeholder="Company Name/ Provincial address">
 </div>
 
+<div class="form-group">
+  <label for="inputAddress2">Company Full Address</label>
+  <input type="text" class="form-control" id="inputAddress2" placeholder="Company Full Address">
+</div>
+
+
 <form>
-<div class="form-row">
+  <div class="form-row">
+
   <div class="form-group col-md-6">
-    <h6>City<h6>
+    <label for="inputAddress2">City</label>
     <input type="text" class="form-control" id="inputCity">
   </div>
+
   <div class="form-group col-md-4">
-  <h6>State<h6>
+  <label for="inputAddress2">State</label>
     <select id="inputState" class="form-control">
       <option selected>Choose...</option>
       <option>...</option>
     </select>
   </div>
+
   <div class="form-group col-md-2">
-  <h6>Zip Code<h6>
+    <label for="inputAddress2">Zip Code</label>
     <input type="text" class="form-control" id="inputZip">
   </div>
-</div>
 
-
-
-
-<br>
-
-<form>
-
-<div class="col-xs-1">
-     <p class="text-center" for="ex2">Office Phone</p>
-</div>
- <div class="col-xs-4">
- <input class="form-control" id="ex2" type="text" placeholder="Office Phone Number">
-</div>
-
-
-<div class="col-xs-1">
-   <p class="text-center" for="ex2">Local</p>
- </div>
- <div class="col-xs-2">
- <input class="form-control" id="ex2" type="text" placeholder="Local">
-</div>
-
-
-<div class="col-xs-1">
-   <p class="text-center" for="ex2">Payday</p>
- </div>
- <div class="col-xs-3">
- <input class="form-control" id="ex2" type="text" placeholder="Payday">
 </div>
 </form>
+<hr>
+<br>
 
+
+<form>
+
+  <div class="col-xs-1">
+     <label class="text-center" for="ex2">Office Phone</label>
+   </div>
+
+   <div class="col-xs-4">
+     <input class="form-control" id="ex2" type="text" placeholder="Office Phone Number">
+   </div>
+
+   <div class="col-xs-1">
+     <label class="text-center" for="ex2">Local</label>
+   </div>
+
+   <div class="col-xs-2">
+     <input class="form-control" id="ex2" type="text" placeholder="Local">
+   </div>
+
+   <div class="col-xs-1">
+     <label class="text-center" for="ex2">Payday</label>
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Payday">
+   </div>
+
+</form>
 <br><br><br>
+
+
 <form>
-<div class="col-xs-1">
-   <p class="text-center" for="ex2">Department</p>
+
+  <div class="col-xs-1">
+   <label class="text-center" for="ex2">Department</label>
  </div>
+
  <div class="col-xs-5">
- <input class="form-control" id="ex2" type="text" placeholder="Department">
-</div>
+   <input class="form-control" id="ex2" type="text" placeholder="Department">
+  </div>
 
+  <div class="col-xs-1">
+   <label class="text-center" for="ex2">Occupation</label>
+  </div>
 
-<div class="col-xs-1">
-   <p class="text-center" for="ex2">Occupation</p>
- </div>
- <div class="col-xs-4">
- <input class="form-control" id="ex2" type="text" placeholder="Occupation">
-</div>
+  <div class="col-xs-4">
+    <input class="form-control" id="ex2" type="text" placeholder="Occupation">
+  </div>
+
 </forms>
+<br><br>
 
 
-<br><br><br><br>
 <form>
-<div class="col-xs-2">
-   <p class="text-center" for="ex2">Monthly Net Income</p>
- </div>
- <div class="col-xs-4">
- <input class="form-control" id="ex2" type="text" placeholder="Monthly Net Income">
-</div>
+<hr>
 
-<div class="col-xs-2">
-   <p class="text-center" for="ex2">Monthly Expenses</p>
- </div>
-<div class="col-xs-4">
+  <div class="col-xs-2">
+   <label class="text-center" for="ex2">Monthly Net Income</label>
+  </div>
+
+  <div class="col-xs-4">
+    <input class="form-control" id="ex2" type="text" placeholder="Monthly Net Income">
+  </div>
+
+  <div class="col-xs-2">
+    <label class="text-center" for="ex2">Monthly Expenses</label>
+  </div>
+
+  <div class="col-xs-4">
    <input class="form-control" id="ex2" type="text" placeholder="Monthly Net Income">
- </div>
-</form=>
+  </div>
 
- <br><br><br><br>
+</form>
+
+
+
  <form>
- <div class="col-xs-2">
-    <p class="text-center" for="ex2">Other Income (if any)</p>
-  </div>
-  <div class="col-xs-4">
-  <input class="form-control" id="ex2" type="text" placeholder="Other Income (if any)">
- </div>
 
- <div class="col-xs-2">
-    <p class="text-center" for="ex2">Source of Other Income</p>
-  </div>
- <div class="col-xs-4">
+   <div class="col-xs-2">
+    <p class="text-center" for="ex2">Other Income (if any)</>
+   </div>
+
+   <div class="col-xs-4">
+     <input class="form-control" id="ex2" type="text" placeholder="Other Income (if any)">
+   </div>
+
+   <div class="col-xs-2">
+    <p class="text-center" for="ex2">Source</p>
+   </div>
+
+   <div class="col-xs-4">
     <input class="form-control" id="ex2" type="text" placeholder="Source of Other Income">
-  </div>
+   </div>
+
  </form>
+ <br><br>
 
- <br><br><br><br>
+
  <form>
- <div class="col-xs-2">
-    <p class="text-center" for="ex2">Emploment Status</p>
-  </div>
-  <div class="col-xs-4">
-  <input class="form-control" id="ex2" type="text" placeholder="Employmebnt Status">
- </div>
 
- <div class="col-xs-2">
-    <p class="text-center" for="ex2">Years of Service</p>
+   <div class="col-xs-2">
+    <label class="text-center" for="ex2">Emploment Status</label>
   </div>
- <div class="col-xs-4">
+
+  <div class="col-xs-4">
+    <input class="form-control" id="ex2" type="text" placeholder="Employmebnt Status">
+  </div>
+
+  <div class="col-xs-2">
+    <label class="text-center" for="ex2">Years of Service</label>
+  </div>
+
+  <div class="col-xs-4">
     <input class="form-control" id="ex2" type="text" placeholder="Years of Service">
   </div>
  </form>
+<br><br><br><br>
 
 
-<br><br><br>
-
-
-   <br>
-   <div class="alert alert-primary" role="alert">
+<div class="alert alert-primary" role="alert">
     This is where you put your source of income or your Employment and Financial Information<br><br>
-   <button id="singlebutton" name="singlebutton" class="btn btn-primary center-block">
+  <button id="singlebutton" name="singlebutton" class="btn btn-warning center-block">
        <h4>Continue</h4>
    </button>
  </div>
-<div>
 
-<div class="progress">
-  <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 41%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-</div>
 
 </div>
 
-</div>
-
-</div>
-</div>
-</div>
+<center>
+<h6>ÆON CREDIT SERVICE (PHILIPPINES) INC. or its affiliates. All rights reserved</h6>
+</center>
 
 
 

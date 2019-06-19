@@ -20,147 +20,152 @@
 
 <body>
 <!--start-->
-<br><br><br>
+<span class="d-block p-2 text-BLACK" style="background-color: #e3f2fd;" > <img src="loan.png" height="50" lenght="50"> ÆON CREDIT SERVICE (PHILIPPINES) INC.</span>
+
+
+<div class="progress" style="height: 13px;">
+<div class="progress-bar progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 61%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
 <div class="container">
 <div class="panel panel-primary">
 <div class="panel-heading">References</div>
 
-<div class="panel-body"><h3>
+  <div class="form-group row">
 
-
-<div class="form-group row">
-  <div class="col-xs-1">
-     <h4 class="text-center" for="ex2">Relationship</h4>
-
-   </div>
-   <div class="col-xs-3">
-      <h4 class="text-center" for="ex2">Name</h4>
-
- </div>
- <div class="col-xs-3">
-      <h4 class="text-center" for="ex2">Contact Number</h4>
-
- </div>
- <div class="col-xs-3">
-      <h4 class="text-center" for="ex2">Address</h4>
-
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-1">
-       <h5 class="text-center" for="ex2">Relatives</h5>
-
-  </div>
-   <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Name">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
- </div>
- <div class="col-xs-5">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Address">
- </div>
-</div><div class="form-group row">
-  <div class="col-xs-1">
-       <h5 class="text-center" for="ex2">Others</h5>
-
-  </div>
-   <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Name">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
- </div>
- <div class="col-xs-5">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Address">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-1">
-       <h5 class="text-center" for="ex2">Supplier</h5>
-
-  </div>
-   <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Name">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
- </div>
- <div class="col-xs-5">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Address">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-1">
-       <h5 class="text-center" for="ex2">Supplier</h5>
-
-  </div>
-   <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Name">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
- </div>
- <div class="col-xs-5">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Address">
- </div>
-</div>
-<div class="form-group row">
-  <div class="col-xs-1">
-       <h5 class="text-center" for="ex2">Customer</h5>
-
-  </div>
-   <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Name">
- </div>
- <div class="col-xs-3">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
- </div>
- <div class="col-xs-5 ">
-
-   <input class="form-control" id="ex2" type="text" placeholder="Address">
- </div>
-</div>
-
-
-
-<div align="right" class="form-group">
-</div>
-
-
-
-
-
-
-<br>
-</div>
-
-   <br>
-
-
-   <div class="alert alert-primary" role="alert">
-    This is all about your References. You are now half way
-<button type="submit" class="btn btn-primary center-block"><h4>Continue</h4></button>
-</div>
-
-  <div class="progress">
-      <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 61%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+    <div class="col-xs-1">
+      <h4 class="text-center" for="ex2">Relationship</h4>
     </div>
 
+    <div class="col-xs-3">
+      <h4 class="text-center" for="ex2">Name</h4>
+    </div>
+
+    <div class="col-xs-3">
+      <h4 class="text-center" for="ex2">Contact Number</h4>
+    </div>
+
+    <div class="col-xs-3">
+      <h4 class="text-center" for="ex2">Address</h4>
+    </div>
+
+  </div>
+
+
+<div class="form-group row">
+
+  <div class="col-xs-1">
+     <h5 class="text-center" for="ex2">Relatives</h5>
+  </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Name">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
+   </div>
+
+   <div class="col-xs-5">
+     <input class="form-control" id="ex2" type="text" placeholder="Address">
+   </div>
+</div>
+
+
+<div class="form-group row">
+
+    <div class="col-xs-1">
+       <h5 class="text-center" for="ex2">Others</h5>
+     </div>
+
+     <div class="col-xs-3">
+       <input class="form-control" id="ex2" type="text" placeholder="Name">
+     </div>
+
+     <div class="col-xs-3">
+       <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
+     </div>
+
+     <div class="col-xs-5">
+       <input class="form-control" id="ex2" type="text" placeholder="Address">
+     </div>
+
+</div>
+
+
+  <div class="form-group row">
+
+    <div class="col-xs-1">
+       <h5 class="text-center" for="ex2">Supplier</h5>
+     </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Name">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
+   </div>
+
+   <div class="col-xs-5">
+     <input class="form-control" id="ex2" type="text" placeholder="Address">
+   </div>
+
+  </div>
+
+
+  <div class="form-group row">
+
+    <div class="col-xs-1">
+       <h5 class="text-center" for="ex2">Supplier</h5>
+    </div>
+
+    <div class="col-xs-3">
+      <input class="form-control" id="ex2" type="text" placeholder="Name">
+    </div>
+
+    <div class="col-xs-3">
+      <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
+    </div>
+
+    <div class="col-xs-5">
+      <input class="form-control" id="ex2" type="text" placeholder="Address">
+    </div>
+
+  </div>
+
+
+  <div class="form-group row">
+    <div class="col-xs-1">
+       <h5 class="text-center" for="ex2">Customer</h5>
+    </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Name">
+   </div>
+
+   <div class="col-xs-3">
+     <input class="form-control" id="ex2" type="text" placeholder="Contact Number">
+   </div>
+
+   <div class="col-xs-5 ">
+     <input class="form-control" id="ex2" type="text" placeholder="Address">
+   </div>
+
+  </div>
+<br><br>
+
+   <div class="alert alert-primary" role="alert">
+     This is all about your References. You are now half way
+     <button type="submit" class="btn btn-warning center-block"><h4>Continue</h4></button>
+   </div>
+
+</div>
+
+  <center>
+    <h6>ÆON CREDIT SERVICE (PHILIPPINES) INC. or its affiliates. All rights reserved</h6>
+  </center>
 
 
 
