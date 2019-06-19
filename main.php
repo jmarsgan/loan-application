@@ -37,7 +37,7 @@ color: white;
 <img src="loan.png" height="50" lenght="50">
 
 
-<a class="navbar-brand" href="#">AEON Financial Services (updated)</a>
+<a class="navbar-brand" href="#">AEON Financial Services</a>
 
         <a href="#" class="glyphicon glyphicon-folder-close"> Application Status</a>
         <a href="#" class="glyphicon glyphicon-envelope"> Respond to Invitation</a>
@@ -58,7 +58,7 @@ color: white;
   <div class="card text" style="width: 45rem;">
 
     <div class="card-body">
-      <h3 class="card-title">Personal Loan</h3>
+      <h3 class="card-title">Personal Loan 2019</h3>
       <br><br>
       <div class="col-auto">
            <div class="input-group mb-2">
