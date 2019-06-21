@@ -128,7 +128,7 @@
   <div class="col-sm-3">
 
     <img src="image2.jpg" class="img-responsive" style="width:100%" alt="Image">
-    <p>Pay for unexpected expenses.</p>
+    <p>Creating annual budgets lets you see your big expenses and plan for them.</p>
   </div>
   <div class="col-sm-3">
 
