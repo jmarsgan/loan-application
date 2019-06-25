@@ -83,7 +83,7 @@
 
   <div class="form-group col-md-6">
     <label for="inputAddress2">City</label>
-    <input type="text" class="form-control" id="inputCity">
+    <input type="text" class="form-control" id="inputCity" placeholder="City">
   </div>
 
   <div class="form-group col-md-4">
@@ -96,7 +96,7 @@
 
   <div class="form-group col-md-2">
     <label for="inputAddress2">Zip Code</label>
-    <input type="text" class="form-control" id="inputZip">
+    <input type="text" class="form-control" id="inputZip" placeholder="Zip Code">
   </div>
 
 </div>
